@@ -37,8 +37,11 @@ header{
 header p{
 text-align: center;
 margin-top: 160px;
+padding:20px;
 }
-
+header h1{
+padding:20px
+}
 main{
  
   border-radius:10px;
@@ -83,8 +86,12 @@ footer button{
 
 
 }
+footer h3{
+  padding:20px
+}
 footer p{
  margin: 0 auto;
+  padding:20px;
 }
 
 .school {
